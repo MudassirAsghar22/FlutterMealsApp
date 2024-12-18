@@ -7,7 +7,7 @@ const availableCategories = [
   Category(
     id: 'c1',
     title: 'Italian',
-    color: Colors.purple,
+    color: Colors.orange,
   ),
   Category(
     id: 'c2',
@@ -17,7 +17,7 @@ const availableCategories = [
   Category(
     id: 'c3',
     title: 'Hamburgers',
-    color: Colors.orange,
+    color: Colors.purple,
   ),
   Category(
     id: 'c4',
